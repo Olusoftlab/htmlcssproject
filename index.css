@@ -1,0 +1,49 @@
+@import url("https: //fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Poppins:wght@400;700&display=swap");
+
+
+
+
+.first-element{
+        
+        
+    background-color: rgb(105, 191, 105);  
+    width:200px;
+    height:60px;
+    font-size: 28px;
+    font-family: poppins;
+    color:black;
+    padding: 30px 30px;
+    margin:40px 20px;       
+    font-weight: 200px;            
+}
+
+
+.first-element:hover{
+
+       background-color: blue;
+}
+
+
+
+.second-element{
+
+       width:300px;
+}
+
+
+.second-element:hover{
+    background-color: gray;
+}
+
+
+
+#first-div{
+
+    background-color: yellow;
+    text-decoration:underline;
+    padding-top: 50px;
+}
+
+
+
+
